@@ -467,7 +467,7 @@ IM IN YR <label> <operation> YR <variable> [TIL|WILE <expression>]
 IM OUTTA YR <label>
 ```
 
-Where <operation> may be UPPIN (increment by one), NERFIN (decrement by one), or any unary function. That operation/function is applied to the <variable>, which is temporary, and local to the loop. The TIL <expression> evaluates the expression as a TROOF: if it evaluates as FAIL, the loop continues once more, if not, then loop execution stops, and continues after the matching IM OUTTA YR <label>. The WILE <expression> is the converse: if the expression is WIN, execution continues, otherwise the loop exits.
+Where `<operation>` may be UPPIN (increment by one), NERFIN (decrement by one), or any unary function. That operation/function is applied to the `<variable>`, which is temporary, and local to the loop. The `TIL <expression>` evaluates the expression as a `TROOF`: if it evaluates as `FAIL`, the loop continues once more, if not, then loop execution stops, and continues after the matching `IM OUTTA YR <label>`. The `WILE <expression>` is the converse: if the expression is `WIN`, execution continues, otherwise the loop exits.
 
 ---
 
