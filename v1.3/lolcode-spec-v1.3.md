@@ -1,4 +1,4 @@
-# LOLCODE Specification 1.2
+# LOLCODE Specification 1.3
 
 DRAFT &mdash; 12 July 2007*
 
