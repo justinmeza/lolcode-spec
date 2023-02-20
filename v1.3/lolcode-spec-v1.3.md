@@ -830,9 +830,9 @@ parentClass IZ funkin YR "HAI" MKAY        BTW parentClass-HAI
 testClass IZ funkin YR "HAI" MKAY            BTW testClass-HAI
 ```
 
-#### Mixin Inheritance
+#### Inheritance
 
-LOLCode supports a form of multiple-inheritance (I'm calling mixin-inheritance) via a new use of the SMOOSH operator.
+LOLCODE supports a form of multiple-inheritance (called mixin-inheritance) via a new use of the SMOOSH operator.
 
 ```
 I HAS A <object> ITZ A <parent> SMOOSH <mixin> (AN <mixin>)*
